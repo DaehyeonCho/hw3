@@ -2,7 +2,7 @@
 
 struct student{         // student 구조체 선언
     char lastname[13];  // 13바이트
-    int studetID;       // 4바이트
+    int studentID;       // 4바이트
     short grade;        // 2바이트
 };
 
